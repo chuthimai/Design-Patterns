@@ -1,0 +1,1 @@
+enum Format {mp3, vlc, mp4, avi}
